@@ -1,1 +1,1 @@
-Simple RL-MPC that shows how the mean and variance changes when approaching constraints 
+My personal work in progress code. Some working, some not. 
